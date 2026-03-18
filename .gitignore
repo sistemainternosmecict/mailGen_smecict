@@ -2,3 +2,15 @@
 *.xlsx
 venv/
 __pycache__/
+
+
+*.xlsx
+*.txt
+conversor_json.py
+createRooms.py
+filtrar_creches.py
+formatar_escolas.py
+listChromeos.py
+listUnits.py
+listUsers.py
+rede_limpa.py
